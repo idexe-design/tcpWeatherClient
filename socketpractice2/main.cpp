@@ -114,4 +114,3 @@ int main(int argc, char *argv[]) {      //Hauptfunktion :: Dem Programm können 
     //Rückgabe, dass Programm natürlich (nicht wegen eines Fehlers) beendet wurde.
     return EXIT_SUCCESS;
 }
-
